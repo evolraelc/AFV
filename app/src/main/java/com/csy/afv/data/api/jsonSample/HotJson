@@ -1,0 +1,31 @@
+{
+  "tabInfo": {
+    "tabList": [
+      {
+        "id": 0,
+        "name": "周排行",
+        "apiUrl": "http://baobab.kaiyanapp.com/api/v4/rankList/videos?strategy=weekly",
+        "tabType": 0,
+        "nameType": 0,
+        "adTrack": null
+      },
+      {
+        "id": 1,
+        "name": "月排行",
+        "apiUrl": "http://baobab.kaiyanapp.com/api/v4/rankList/videos?strategy=monthly",
+        "tabType": 0,
+        "nameType": 0,
+        "adTrack": null
+      },
+      {
+        "id": 2,
+        "name": "总排行",
+        "apiUrl": "http://baobab.kaiyanapp.com/api/v4/rankList/videos?strategy=historical",
+        "tabType": 0,
+        "nameType": 0,
+        "adTrack": null
+      }
+    ],
+    "defaultIdx": 0
+  }
+}
