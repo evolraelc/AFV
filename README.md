@@ -46,8 +46,26 @@ ___
 ![搜索界面](./images/Screenshot_2019-12-26-14-22-00-92.png)
 ![视频播放界面](./images/Screenshot_2019-12-26-14-22-09-95.png)
 
+## 声明
+
+**项目中的 API 均来自开眼视频，纯属学习交流使用，不得用于商业用途**
+
+___
+
 ## License
 
-[小书匠更新手册](storywriter/upgrade_log)
-[小书匠语法手册](storywriter/grammar)
-[小书匠使用手册](storywriter/tutorial)
+``` javascript
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
+
