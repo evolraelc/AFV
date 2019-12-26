@@ -4,7 +4,7 @@
 
 ___
 
-## 项目实现功能
+## 项目功能
 
 - [x] “主页” 界面实现每日视频推荐功能，提供一系列推荐视频
 - [x] “发现”界面提供视频类别的视频推荐
@@ -30,10 +30,13 @@ ___
  - RxDownload：视频缓存下载
  - Anko Commons：Intent、log的使用
  - GSYVideoPlayer：视频播放器
+ - ...
 
 ### 项目框架
 
-使用GoogleMVP架构：Model+View+Presenter+Contract
+1. 使用GoogleMVP架构：Model+View+Presenter+Contract
+2. view界面使用RecycleView展示较多，采用Adapter+Fragment的方式绑定数据并展示。
+3. 项目经老师建议后采用lint扫描，改正了一些不规范之处。
 
 ___
 
