@@ -1,15 +1,3 @@
----
-title:  AFV项目文档
-tags: Eyepetizer,Android,Retrofit2+RxJava
-slug: storywriter/upgrade_log
-grammar_mindmap: true
-renderNumberedHeading: true
-grammar_code: true
-grammar_decorate: true
-grammar_mathjax: true
----
-
-
 
 ## 项目简介
    项目实现一款在线小视频观看APP，视频来源于Eyepetizer。
