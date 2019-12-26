@@ -51,10 +51,14 @@ ___
 
 
 ## 项目截图
+![主页推荐](./images/Screenshot_2019-12-26-14-21-47-37_1.png)
+![发现界面](./images/Screenshot_2019-12-26-14-21-50-01.png)
+![热门界面](./images/Screenshot_2019-12-26-14-21-53-08.png)
+![我的界面](./images/Screenshot_2019-12-26-14-21-55-45.png)
+![搜索界面](./images/Screenshot_2019-12-26-14-22-00-92.png)
+![视频播放界面](./images/Screenshot_2019-12-26-14-22-09-95.png)
 
-
-
-# 其他
+## License
 
 [小书匠更新手册](storywriter/upgrade_log)
 [小书匠语法手册](storywriter/grammar)
